@@ -1,4 +1,4 @@
-// import "../styles/task.scss";
+import "../styles/Task.scss";
 import { useState } from "react";
 
 export default function Task(props) {

@@ -1,4 +1,4 @@
-// import "../styles/statusLine.scss";
+import "../styles/StatusLine.scss";
 import Task from "./Task";
 
 export default function StatusLine(props) {

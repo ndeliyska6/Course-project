@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-// import "../styles/App.scss";
+import "../styles/App.scss";
 import StatusLine from "./StatusLine";
 
 function App() {
